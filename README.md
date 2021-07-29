@@ -15,3 +15,4 @@ The method is based on randomisation and topological sorting as the initialisati
 More information is in the header file.
 
 Gleb Beliakov, April 2020
+
